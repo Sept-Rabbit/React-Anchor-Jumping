@@ -1,7 +1,4 @@
-import { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "./logo.svg";
-import poweredBy from "./powered-by-vitawind-dark.png";
 
 function App() {
   return (
