@@ -22,7 +22,7 @@ const Intro = () => {
         Vitawind
       </a>
 
-      <p className="w-4/5 px-20">
+      <p className="px-5 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -34,7 +34,7 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p className="w-4/5 px-20 py-20">
+      <p className="px-5 py-20 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -46,7 +46,7 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p className="w-4/5 px-20">
+      <p className="px-5 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -58,14 +58,17 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p id="intro" className="w-4/5 p-20 underline decoration-yellow-500">
+      <p
+        id="intro"
+        className="px-5 py-20 underline decoration-yellow-500 lg:w-4/5 lg:px-20"
+      >
         Vitawind is a great package to set up your project easily. If you want
         to use React, Tailwind, Typescript and Vite in your project, Vitawind is
         your one-stop shop.Moreover, it provides the "creator" option to let you
         simply copy the command and execute.
       </p>
 
-      <p className="w-4/5 px-20">
+      <p className="px-5 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -77,7 +80,7 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p className="w-4/5 p-20">
+      <p className="px-5 py-20 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -89,7 +92,7 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p className="w-4/5 px-20">
+      <p className="px-5 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -109,7 +112,7 @@ const Intro = () => {
         Visit Vitawind for more information
       </a>
 
-      <p className="w-4/5 px-20">
+      <p className="px-5 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -121,7 +124,7 @@ const Intro = () => {
         of Lorem Ipsum.
       </p>
 
-      <p className="w-4/5 px-20 pb-20">
+      <p className="px-5 py-20 lg:w-4/5 lg:px-20">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
